@@ -1,0 +1,30 @@
+[16/07/2025 14:30] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1395049905013133363 | Roles: Bot, DraftBot
+
+[Embed]
+Titre: **Création de ticket**
+Description: **`Créer un Ticket Support`** 
+*Vous souhaitez contacter l'Équipe de Random List !?*
+
+**Choisissez une raison ci-dessous pour ouvrir un ticket !**
+
+**`Raisons Disponibles`**
+
+ • Signaler un Joueur
+ • Contester une Sanction
+ • Signaler un Problème
+ • Demander un Grade
+ • Ajouter un joueur focus
+ • Partenariat
+ • Suggestion
+ • Question
+ • Demander à ne plus être focus
+ • Autre...
+
+**`Règles des Tickets`**
+
+ • Le Règlement de Random List s'applique aussi dans les Tickets
+ • Les mentions abusives dans les tickets seront sanctionnées
+ • Sans réponse pendant plus de 24 heures, le ticket sera supprimé
+ • L'ouverture multiple de ticket pour un soucis identique est interdite
+
+ **Bonne journée !**

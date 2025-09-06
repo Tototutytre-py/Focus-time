@@ -1,0 +1,6 @@
+[09/08/2025 09:07] Resource Pack (Resource Pack#0000 | UID: 1403665751965040680) | MsgID: 1403666108501852220 | Roles: Impossible de récupérer les rôles
+
+[Embed]
+Titre: PVP Resource Pack
+Description: Voici le pack de ressource PVP.
+[Cliquez ici](https://www.patreon.com/collection/1655220)
