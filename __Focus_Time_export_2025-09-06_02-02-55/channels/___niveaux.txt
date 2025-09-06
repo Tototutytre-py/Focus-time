@@ -1,0 +1,219 @@
+[16/07/2025 15:12] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1395060426085109820 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 1 !
+[Embed]
+[16/07/2025 15:15] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1395061398450471003 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 1 !
+[Embed]
+[17/07/2025 11:32] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1395367634794446900 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 2 !
+[Embed]
+[18/07/2025 10:08] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1395708890108399637 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 2 !
+[Embed]
+[24/07/2025 17:03] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1397987569412735120 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 3 !
+[Embed]
+[26/07/2025 13:32] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1398659128892854334 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 3 !
+[Embed]
+[26/07/2025 13:37] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1398660397585661963 | Roles: Bot, DraftBot
+<@1210702872455413760>, vous venez de passer au niveau 1 !
+[Embed]
+[26/07/2025 13:49] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1398663483083718788 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 4 !
+[Embed]
+[26/07/2025 14:43] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1398677124067627059 | Roles: Bot, DraftBot
+<@1210702872455413760>, vous venez de passer au niveau 2 !
+[Embed]
+[28/07/2025 19:08] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1399468488136986644 | Roles: Bot, DraftBot
+<@1210702872455413760>, vous venez de passer au niveau 3 !
+[Embed]
+[29/07/2025 13:44] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1399749357577961513 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 5 !
+[Embed]
+[01/08/2025 20:01] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1400931371312218296 | Roles: Bot, DraftBot
+<@1366492271838756895>, vous venez de passer au niveau 1 !
+[Embed]
+[01/08/2025 22:26] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1400967896489787503 | Roles: Bot, DraftBot
+<@1366492271838756895>, vous venez de passer au niveau 2 !
+[Embed]
+[01/08/2025 22:29] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1400968813478019215 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 6 !
+[Embed]
+[07/08/2025 12:03] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1402985477526654996 | Roles: Bot, DraftBot
+<@555418297668075545>, vous venez de passer au niveau 1 !
+[Embed]
+[08/08/2025 07:13] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403274893641912331 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 1 !
+[Embed]
+[09/08/2025 08:14] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403652736096141334 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 2 !
+[Embed]
+[09/08/2025 10:21] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403684601515216917 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 4 !
+[Embed]
+[09/08/2025 10:22] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403684789298397215 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 7 !
+[Embed]
+[09/08/2025 10:23] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403684991048745040 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 3 !
+[Embed]
+[09/08/2025 13:31] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403732519312035986 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 4 !
+[Embed]
+[09/08/2025 13:33] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403732949827977228 | Roles: Bot, DraftBot
+<@1391173944115204207>, vous venez de passer au niveau 1 !
+[Embed]
+[09/08/2025 18:12] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403803160341909554 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 5 !
+[Embed]
+[09/08/2025 18:18] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403804755330863164 | Roles: Bot, DraftBot
+<@555418297668075545>, vous venez de passer au niveau 2 !
+[Embed]
+[09/08/2025 18:24] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1403806064209559642 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 5 !
+[Embed]
+[10/08/2025 08:44] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404022599104593942 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 8 !
+[Embed]
+[10/08/2025 12:57] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404086361446682728 | Roles: Bot, DraftBot
+<@888744989335646219>, vous venez de passer au niveau 1 !
+[Embed]
+[10/08/2025 13:19] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404091681606864967 | Roles: Bot, DraftBot
+<@888744989335646219>, vous venez de passer au niveau 2 !
+[Embed]
+[10/08/2025 13:48] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404099044502011966 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 9 !
+[Embed]
+[10/08/2025 13:52] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404100045241843775 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 6 !
+[Embed]
+[10/08/2025 13:57] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404101245806841946 | Roles: Bot, DraftBot
+<@1391173944115204207>, vous venez de passer au niveau 2 !
+[Embed]
+[10/08/2025 14:42] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404112696831639632 | Roles: Bot, DraftBot
+<@888744989335646219>, vous venez de passer au niveau 3 !
+[Embed]
+[10/08/2025 14:54] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404115678620946494 | Roles: Bot, DraftBot
+<@888744989335646219>, vous venez de passer au niveau 4 !
+[Embed]
+[10/08/2025 15:26] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404123763720716440 | Roles: Bot, DraftBot
+<@1391173944115204207>, vous venez de passer au niveau 3 !
+[Embed]
+[10/08/2025 15:28] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404124357080514640 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 7 !
+[Embed]
+[10/08/2025 16:15] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404136158425780246 | Roles: Bot, DraftBot
+<@888744989335646219>, vous venez de passer au niveau 5 !
+[Embed]
+[10/08/2025 16:42] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404142780934127646 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 10 !
+[Embed]
+[11/08/2025 08:53] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404387205568270359 | Roles: Bot, DraftBot
+<@1298357610176843776>, vous venez de passer au niveau 1 !
+[Embed]
+[11/08/2025 09:03] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404389823799890010 | Roles: Bot, DraftBot
+<@1298357610176843776>, vous venez de passer au niveau 2 !
+[Embed]
+[11/08/2025 10:09] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404406393402032158 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 8 !
+[Embed]
+[11/08/2025 12:04] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404435349475688621 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 11 !
+[Embed]
+[11/08/2025 13:11] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404452213085962324 | Roles: Bot, DraftBot
+<@555418297668075545>, vous venez de passer au niveau 3 !
+[Embed]
+[11/08/2025 20:17] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404559291695759440 | Roles: Bot, DraftBot
+<@1210702872455413760>, vous venez de passer au niveau 4 !
+[Embed]
+[12/08/2025 07:58] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404735866156613694 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 6 !
+[Embed]
+[12/08/2025 15:13] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404845360106573996 | Roles: Bot, DraftBot
+<@820339914016555059>, vous venez de passer au niveau 1 !
+[Embed]
+[12/08/2025 16:11] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404859819835392102 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 12 !
+[Embed]
+[12/08/2025 16:12] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1404859983128166524 | Roles: Bot, DraftBot
+<@1259092906598469632>, vous venez de passer au niveau 1 !
+[Embed]
+[13/08/2025 08:58] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405113203733692527 | Roles: Bot, DraftBot
+<@1391173944115204207>, vous venez de passer au niveau 4 !
+[Embed]
+[13/08/2025 09:18] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405118213590745109 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 9 !
+[Embed]
+[14/08/2025 10:46] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405502743313125478 | Roles: Bot, DraftBot
+<@1298357610176843776>, vous venez de passer au niveau 3 !
+[Embed]
+[14/08/2025 22:19] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405677354281468065 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 13 !
+[Embed]
+[15/08/2025 19:26] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405995996542009489 | Roles: Bot, DraftBot
+<@991749669535367350>, vous venez de passer au niveau 1 !
+[Embed]
+[15/08/2025 19:28] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405996580451909712 | Roles: Bot, DraftBot
+<@718755649961328650>, vous venez de passer au niveau 1 !
+[Embed]
+[15/08/2025 19:29] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1405996958598041784 | Roles: Bot, DraftBot
+<@954700405051392030>, vous venez de passer au niveau 1 !
+[Embed]
+[16/08/2025 12:02] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406246790600331314 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 7 !
+[Embed]
+[16/08/2025 19:41] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406362228978089994 | Roles: Bot, DraftBot
+<@1210702872455413760>, vous venez de passer au niveau 5 !
+[Embed]
+[16/08/2025 20:53] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406380365257511087 | Roles: Bot, DraftBot
+<@954700405051392030>, vous venez de passer au niveau 2 !
+[Embed]
+[17/08/2025 12:18] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406613205488500877 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 14 !
+[Embed]
+[17/08/2025 18:09] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406701491888328746 | Roles: Bot, DraftBot
+<@1386065734815186984>, vous venez de passer au niveau 10 !
+[Embed]
+[17/08/2025 18:16] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406703170104852550 | Roles: Bot, DraftBot
+<@1298357610176843776>, vous venez de passer au niveau 4 !
+[Embed]
+[17/08/2025 18:44] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406710250102325258 | Roles: Bot, DraftBot
+<@1298357610176843776>, vous venez de passer au niveau 5 !
+[Embed]
+[17/08/2025 19:03] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406715182356365314 | Roles: Bot, DraftBot
+<@1100482840644304898>, vous venez de passer au niveau 1 !
+[Embed]
+[18/08/2025 08:39] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406920425807544323 | Roles: Bot, DraftBot
+<@991749669535367350>, vous venez de passer au niveau 2 !
+[Embed]
+[22/08/2025 09:38] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1408384929016057910 | Roles: Bot, DraftBot
+<@1370496515843559516>, vous venez de passer au niveau 1 !
+[Embed]
+[24/08/2025 16:47] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1409217617889202260 | Roles: Bot, DraftBot
+<@1259092906598469632>, vous venez de passer au niveau 2 !
+[Embed]
+[29/08/2025 12:45] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1410968714051981423 | Roles: Bot, DraftBot
+<@948656250458091520>, vous venez de passer au niveau 15 !
+[Embed]
+[03/09/2025 15:28] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1412821479086755861 | Roles: Bot, DraftBot
+<@1398359519712510066>, vous venez de passer au niveau 1 !
+[Embed]
+[03/09/2025 19:42] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1412885523185270946 | Roles: Bot, DraftBot
+<@1398359519712510066>, vous venez de passer au niveau 2 !
+[Embed]
+[04/09/2025 17:35] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1413215806447161356 | Roles: Bot, DraftBot
+<@1398359519712510066>, vous venez de passer au niveau 3 !
+[Embed]
+[05/09/2025 09:03] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1413449574730829875 | Roles: Bot, DraftBot
+<@1398359519712510066>, vous venez de passer au niveau 4 !
+[Embed]
+[05/09/2025 15:34] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1413547954849185792 | Roles: Bot, DraftBot
+<@1341355715146551337>, vous venez de passer au niveau 8 !
+[Embed]
+[05/09/2025 17:00] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1413569465165156373 | Roles: Bot, DraftBot
+<@1398359519712510066>, vous venez de passer au niveau 5 !
+[Embed]
+[05/09/2025 17:14] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1413572991505137758 | Roles: Bot, DraftBot
+<@1250760681456930829>, vous venez de passer au niveau 1 !
+[Embed]

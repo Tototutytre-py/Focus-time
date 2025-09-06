@@ -1,0 +1,18 @@
+[11/08/2025 19:52] Rôles (Rôles#0000 | UID: 1404552565416530001) | MsgID: 1404553072839233617 | Roles: Impossible de récupérer les rôles
+
+[Embed]
+Titre: 🎭 Rôles Discord Focus Time
+Champ: 🔴 Équipe de direction & gestion = - **Focus Time Général** : Responsable global, décide des stratégies et des sanctions majeures.
+- **Focus Time Commandant** : Chef des opérations terrain, supervise les tactiques et l’équipe.
+- **Focus Time Lieutenant** : Second du Commandant, organise les équipes et gère les cas sensibles.
+- **Focus Time Coordinateur Événements** : Planifie les sessions Focus Time, organise les équipes et horaires.
+Champ: 🛡️ Opérations & terrain = - **Focus Time Officier** : Membre expérimenté, exécute les focus, décide des sanctions mineures.
+- **Focus Time Stratège** : Analyse les comportements et prépare les plans d’action.
+- **Focus Time Scout** : Repère les joueurs suspects et fait remonter les informations.
+- **Focus Time Analyste Logs** : Vérifie les preuves et prépare les rapports.
+Champ: 💬 Communication & support = - **Focus Time Support** : Gère la communication avec les joueurs, tickets et réclamations.
+- **Focus Time Modérateur** : Modère les salons Discord et gère les conflits internes.
+Champ: 📚 Formation & recrutement = - **Focus Time Recrue** : Nouveau membre en formation, apprend les règles et méthodes.
+Champ: ⚠️ Joueurs = - **Joueur Focus** : Joueur actuellement focus, rôle temporaire indiquant la sanction PvP.
+- **Joueur Clean** : Joueur sans sanction, bon comportement.
+Footer: Focus Time – Organisation des rôles

@@ -1,0 +1,529 @@
+[01/08/2025 20:01] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400931556826026219 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Focus Time Token : ```[REDACTED_TOKEN]```
+[01/08/2025 20:04] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400932105436795001 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1366492271838756895>
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932870322651168 | Roles: Impossible de récupérer les rôles
+y'a
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932895463313479 | Roles: Impossible de récupérer les rôles
+a bah y'a le token ?
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932902031593644 | Roles: Impossible de récupérer les rôles
+bah parfait
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932906456842410 | Roles: Impossible de récupérer les rôles
+azé
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932917747777546 | Roles: Impossible de récupérer les rôles
+je commence le dev mdr
+[01/08/2025 20:07] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400932996873195620 | Roles: Impossible de récupérer les rôles
+Pour le bot met une pp et une bannière de profile ou alors on le laisse comme il est ?
+[01/08/2025 20:14] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400934787577024657 | Roles: Impossible de récupérer les rôles
+<@948656250458091520> Je pense terminer le code se soir
+[01/08/2025 20:14] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400934807382528081 | Roles: Impossible de récupérer les rôles
+dans 15minute
+[01/08/2025 20:14] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400934819692810360 | Roles: Impossible de récupérer les rôles
+ou 30
+[01/08/2025 20:18] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400935740560638034 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+au pire passe <@1366492271838756895> une pfp et une banniere
+[01/08/2025 20:18] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400935747825041428 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+je la met
+[01/08/2025 20:18] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400935766900736081 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+sinon je met une rod
+[01/08/2025 20:18] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400935784550371350 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+et un truc pvp
+[01/08/2025 20:18] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400935800832528506 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ou je fais un rendu
+[01/08/2025 20:18] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400935804771238051 | Roles: Impossible de récupérer les rôles
+Ouais vazy
+[01/08/2025 20:18] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400935828061949988 | Roles: Impossible de récupérer les rôles
+le custom je m'occupe pas trop ^^
+[01/08/2025 20:21] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400936493538869429 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ok
+[01/08/2025 20:21] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400936500203618355 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+voila
+[01/08/2025 20:21] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400936575432659136 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+je ferais un resize demain la jpp
+[01/08/2025 20:22] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400936790109458575 | Roles: Impossible de récupérer les rôles
+Azé
+[01/08/2025 20:22] !𝘽𝙡𝙖𝙘𝙠𝙝𝙞𝙢𝙚 (9j38_anubis#0 | UID: 1366492271838756895) | MsgID: 1400936852822823054 | Roles: Impossible de récupérer les rôles
+T'a une soluce d'hébergement ou pas ?
+[01/08/2025 22:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1400967639689596948 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Nn
+[02/08/2025 16:33] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1401241447260360866 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1366492271838756895>
+[02/08/2025 16:33] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1401241469221732384 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Tu penses quand le bot
+[11/08/2025 09:18] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1404393503298945096 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Huh ya pas de règlement sr le serv ?
+[11/08/2025 10:12] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1404407046971068417 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Si j'en fais un tt a l'heure
+[11/08/2025 10:12] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1404407071113478255 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Je prend le meme que lifesteal
+[11/08/2025 10:12] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1404407132052525076 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Okii
+[11/08/2025 10:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1404412158690852875 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[11/08/2025 10:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1404412174360645736 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+mieux le reglement
+[11/08/2025 10:33] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1404412434164482198 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Incrrr
+[14/08/2025 10:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1405502620944040087 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1341355715146551337>
+[14/08/2025 10:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1405502634785247273 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+tu peux venir ici stp
+[14/08/2025 10:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1405502660832137336 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+LifeStealFR.feathermc.gg
+[14/08/2025 12:43] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1405532302477361192 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+je pioncais
+[14/08/2025 12:43] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1405532332777144330 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+et j arrive en 1.8.8
+[14/08/2025 12:43] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1405532403702956065 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+même si je pars avec mon père dans pas longtemps
+[17/08/2025 10:44] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406589551249457176 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[17/08/2025 10:44] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406589567833997334 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+on cherche le dc
+[17/08/2025 10:45] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406589655411068979 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Il a dit c cutiesad
+[17/08/2025 11:49] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406605775669035169 | Roles: Bot, DraftBot
+
+[Embed]
+Description: Le membre **CutieSad** `(@cutiesad)` a été **banni**.
+>>> Raison : Vole la liste
+[17/08/2025 11:49] DraftBot (DraftBot#0535 | UID: 318312854816161792) | MsgID: 1406605838826602619 | Roles: Bot, DraftBot
+
+[Embed]
+Description: Le membre **elsa** `(@els_ae)` a été **banni**.
+>>> Raison : Vol la liste
+[17/08/2025 18:23] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406704934812123226 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+salut juste
+[17/08/2025 18:23] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406704971734585615 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+elsa la leakeuse
+[17/08/2025 18:23] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406704993448366230 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est pas cutiesad
+[17/08/2025 18:23] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705066609475776 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+elle a dit que c'était lui mais j'ai vérif partout et c'est faux
+[17/08/2025 18:23] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705122448379924 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+cutiesad a rien à faire avec ce qu'elle a fait
+[17/08/2025 18:24] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705235103187024 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Nn mais cutie a bizarrement leave juste apres le leak
+[17/08/2025 18:24] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705301729579099 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Et a dit jt la juste pour la liste apres j'ai leave
+[17/08/2025 18:26] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406705660384772247 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Pk brxmeuse a leave wesh
+[17/08/2025 18:26] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705667586130104 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+comme beaucoup de mondes
+[17/08/2025 18:26] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705740701368461 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+il voulait savoir qui vous focusez d'après lui
+[17/08/2025 18:26] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705759869341887 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Nn les 2 autres jsqui c
+[17/08/2025 18:26] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705787023392840 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+elle voulait pas être dans la merde si ça allait report le serv
+[17/08/2025 18:26] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406705822062350518 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Azé
+[17/08/2025 18:26] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705851229671505 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Bah tkt
+[17/08/2025 18:26] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406705866882809968 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Moi j'ai r fait ds tt les cas ;-;
+[17/08/2025 18:26] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705878337589419 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Jt en mp avec louffy
+[17/08/2025 18:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705922809790595 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Et j'ai parlé du serv et je suis pas ban
+[17/08/2025 18:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406705937431007313 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+XD
+[17/08/2025 18:27] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406705959560286268 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Cv alors
+[17/08/2025 18:27] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705976756666419 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+le serveur en lui même n'est pas motif de ban
+[17/08/2025 18:27] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406705999108243456 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+mais ce que vous en faites
+[17/08/2025 18:28] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406706163000676433 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Bah nous de base on focus juste ce qui cheat et team
+[17/08/2025 18:28] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706180105048254 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+avec tout les screens y a une preuve que vous incitez à un focus au long terme donc sous plusieurs sessions qui est interdit dans le règlement de craftok donc le problème c'est que vous allez être giga surveillés par les modos, donc nous en particuliers au moindre focus abusif on dégage
+[17/08/2025 18:28] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706197985361920 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Pk elle ?
+[17/08/2025 18:28] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706206516580482 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+C il
+[17/08/2025 18:28] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706232995217519 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+commence pas
+[17/08/2025 18:28] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706258496458985 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+;-;
+[17/08/2025 18:28] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706278167871509 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+bah c'est une meuf frangin
+[17/08/2025 18:28] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706304092995656 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Huh
+[17/08/2025 18:28] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706314767241226 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+t'as vu ses pronoms ?
+[17/08/2025 18:28] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406706352516235337 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Jt en voc avec
+[17/08/2025 18:28] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706355712168048 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+J'ai déjà été en voc avc
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706431310303464 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Ui on était nous deux de base et il a rej avec son pote
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706450042060860 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Quina leave après
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706464688705727 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Qui a *
+[17/08/2025 18:29] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706464726454468 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est ma meilleure pote
+[17/08/2025 18:29] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706478181650532 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est une fille
+[17/08/2025 18:29] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706489489494116 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+et nuageuse aussi
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706492173713428 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+;-;
+[17/08/2025 18:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406706505419591761 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Bah de base ce ds c pour le fun
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706524188971141 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Ça js
+[17/08/2025 18:29] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706525220896920 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+**transexualitée**
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706550772338872 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Ww
+[17/08/2025 18:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406706612013371402 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Ça c'est mon vrai ds https://discord.gg/3vMguzZFbJ
+[17/08/2025 18:29] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706644523548782 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Mm moi j un skin de meuf sr mc
+[17/08/2025 18:30] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706673254666332 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Yes
+[17/08/2025 18:30] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406706734420066354 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Je fais un serv mc
+[17/08/2025 18:30] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706734537375824 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est pas question d'avoir un skin de meuf c'est qu'elle est transexuelle
+[17/08/2025 18:30] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706753273467021 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+donc c'est une femme
+[17/08/2025 18:30] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706774039593100 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+De meme
+[17/08/2025 18:30] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706789998788729 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+JLE SUIS
+[17/08/2025 18:30] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706805547077652 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+;-;
+[17/08/2025 18:30] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406706852804431913 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+bah dit pas il
+[17/08/2025 18:31] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406706900451459275 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Azé
+[17/08/2025 18:31] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707049836052552 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+enfin bref
+[17/08/2025 18:31] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707053258604654 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+juste
+[17/08/2025 18:31] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707060103450756 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+pour elsia
+[17/08/2025 18:31] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707092768690349 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+faites gaffes je l'ai déjà connue en kit pvp
+[17/08/2025 18:31] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707113857777734 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+elle a un cheat de tdc
+[17/08/2025 18:31] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707123999740018 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Huh
+[17/08/2025 18:31] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707145814052904 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+;-;
+[17/08/2025 18:32] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707160770936933 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Optn
+[17/08/2025 18:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707190772928633 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Bah moi j'ai un truc mais il faut laby mod
+[17/08/2025 18:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707254060908615 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Ça permet de mdofi les pseudo par exemple le miens je le met en vert
+[17/08/2025 18:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707287237857341 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Et mes focus en rouge
+[17/08/2025 18:32] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707295316086834 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est pas un cheat mdr
+[17/08/2025 18:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707322465816656 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Mais ultra pratique
+[17/08/2025 18:32] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707370934927582 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+quand je te parle de cheat c'est regarde la config qu'elle a mise sur rinaorc
+[17/08/2025 18:32] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707391554130171 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+att je cherche la photo
+[17/08/2025 18:33] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707481584996413 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Bah tkt les cheaters je les fais ban en 10 sec
+[17/08/2025 18:33] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707566947602554 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+voilà [Fichiers: files/image.png]
+[17/08/2025 18:33] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707592427995307 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Mdr
+[17/08/2025 18:33] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707611256094833 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+les joueurs rina c'est pas le même niveaux que les joueurs craftok
+[17/08/2025 18:34] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707655040438387 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+J'ai la meme sur mon serv mais c pour tester les cheaters
+[17/08/2025 18:34] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707691791056989 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Wsh
+[17/08/2025 18:34] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707692982112308 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+je suis un joueur rinaorc de base
+[17/08/2025 18:34] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707726637338635 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+mais là bas tu fais chier des cheateurs tu finis avec un dox de toi
+[17/08/2025 18:34] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707734430093356 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Raweeee cv être dur la
+[17/08/2025 18:34] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707769314115615 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+donc juste faites gaffes
+[17/08/2025 18:34] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707774456598721 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+;--;
+[17/08/2025 18:34] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707815174766704 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Je fais un truc
+[17/08/2025 18:34] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406707834636341298 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est ?
+[17/08/2025 18:35] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406707922041311304 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Att
+[17/08/2025 18:35] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406707952278175877 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Elle se f pas ban ???
+[17/08/2025 18:35] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406708001657847858 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est un cheat à 80 balles mdr
+[17/08/2025 18:35] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406708025607192708 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Mm moi j jst mis xray sans fr expres jme f ban
+[17/08/2025 18:35] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406708028606251099 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+littéralement indétéctable
+[17/08/2025 18:35] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406708050232086639 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Wsh
+[17/08/2025 18:36] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406708395972755668 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+c'est des détraqués là bas mdr
+[17/08/2025 18:37] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406708482966552688 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Réel
+[17/08/2025 18:37] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406708527812186264 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+<@948656250458091520> dcp tu fais quoi
+[17/08/2025 18:38] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406708735312920699 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Tu verras
+[17/08/2025 18:38] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406708770532364341 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+bah
+[17/08/2025 18:42] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406709746051846225 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<#1395026872009756792>
+[17/08/2025 18:43] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406709930924310629 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+ça sert pas à grand chose
+[17/08/2025 18:43] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406709950998253570 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+car c'est globablement incontrable mdr
+[17/08/2025 18:43] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406709984456081471 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+à moins que t'ai un cheat à 80 balles en stock
+[17/08/2025 18:44] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406710248311488712 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+bon jvais lâcher mon ordi
+[17/08/2025 18:44] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406710306243088435 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+à plus
+[17/08/2025 18:45] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1406710605905395904 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Okii byeee bgg
+[17/08/2025 18:52] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1406712361435533405 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+J'ai un cheat open source et c quoi son cheat ?
+[17/08/2025 19:14] [C] Kaaris (fils_de_la_forge#0 | UID: 1298357610176843776) | MsgID: 1406717951545180353 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+augustus
+[28/08/2025 19:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707306550923339 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@&1395026868734001258> à partir de maintenant on oublie l'ancienne liste la nouvelle liste sera <#1410664503280140288>
+[28/08/2025 19:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707348434976869 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+si vous avez des idee de focus <#1410707711397728376>
+[28/08/2025 19:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707384153669714 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+toute les piste de focus ou moindre 2v1
+[28/08/2025 19:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707395189149827 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+notez le
+[28/08/2025 19:27] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707419302203546 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+comme si c'etait un carnet
+[28/08/2025 19:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707854981202032 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+vous faites un post
+[28/08/2025 19:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707879433998336 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+avec en nom le nom du joueur
+[28/08/2025 19:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707931950747719 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+et ensuite la discussion du post sera pour noter tous ce qu'il a fait
+[28/08/2025 19:29] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410707956886011936 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+tout le monde peut completer
+[28/08/2025 19:30] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410708216366628986 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+de preferense en image de post si vous voulez mettez l'image de son skin sur name mc
+[28/08/2025 20:05] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1410716850395938858 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Aze
+[28/08/2025 20:08] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410717704062636043 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[28/08/2025 20:08] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410717729576452268 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+si le joueur a deja un poste
+[28/08/2025 20:08] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410717763164573716 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+vous rajoutez dans le poste existant
+[28/08/2025 20:08] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1410717809507438613 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Okii
+[29/08/2025 09:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410919990743531582 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1210702872455413760>
+[29/08/2025 09:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920056979984477 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+tu pourrais venir
+[29/08/2025 09:32] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920070728912930 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+minigamefr.feathermc.gg
+[29/08/2025 09:34] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920614423695474 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[29/08/2025 09:34] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920630303592459 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1341355715146551337>
+[29/08/2025 09:34] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920639283466250 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+regerdez
+[29/08/2025 09:35] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410920680244903958 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+https://discord.com/channels/1395026868448661524/1395026871594254369
+[29/08/2025 09:37] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1410921263345696830 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Jpp sry
+[29/08/2025 09:37] [C] _Perspicace_ (_y0ri_.#0 | UID: 1210702872455413760) | MsgID: 1410921283717169285 | Roles: Joueur Clean, Verifié, Équipe Focus Time, Focus Time Stratège, Focus Time Commandant
+same
+[29/08/2025 09:37] [C] _Perspicace_ (_y0ri_.#0 | UID: 1210702872455413760) | MsgID: 1410921370493255710 | Roles: Joueur Clean, Verifié, Équipe Focus Time, Focus Time Stratège, Focus Time Commandant
+dans 10 min peut être mais pas sur
+[29/08/2025 09:40] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410922067301367909 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ok
+[29/08/2025 09:50] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410924648538968187 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+alors ?
+[29/08/2025 09:55] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410925859199647887 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1210702872455413760>
+[29/08/2025 10:08] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410929183038767197 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+minigamefr.feathermc.gg
+[29/08/2025 11:57] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410956575262249000 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1210702872455413760>
+[29/08/2025 11:57] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410956592274477086 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1341355715146551337>
+[29/08/2025 11:57] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410956610578153566 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+un de vous vient ?
+[29/08/2025 12:16] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1410961296542928906 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+je sais pas trop
+[29/08/2025 12:17] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410961683966459914 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+stp c en 1.21.4
+[29/08/2025 12:18] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1410961757647667322 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+flemme
+[29/08/2025 12:19] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410961944646783036 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+mais
+[29/08/2025 12:19] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410961950145249370 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ct bien
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963476993544264 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1341355715146551337>
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963500091576341 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+pour la nouvelle liste
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963526461161635 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<#1410707711397728376>
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963553300774943 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+on fait un post par joueur
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963596363563122 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+et dedans tous ce que le joueur à fait
+[29/08/2025 12:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410963640185524446 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+quand on valide un focus on le met dans <#1410664503280140288>
+[29/08/2025 12:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968562478088353 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+j'ai fais rager un modo
+[29/08/2025 12:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968568039739414 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ [Fichiers: files/image.png]
+[29/08/2025 12:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968602651267194 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ [Fichiers: files/image.png]
+[29/08/2025 12:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968711858491402 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[29/08/2025 12:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968715675172944 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+mdr
+[29/08/2025 12:46] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1410968774936629259 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+BAHAHA
+[29/08/2025 12:46] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410968889583468604 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+XD
+[29/08/2025 12:47] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410969005656641597 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[29/08/2025 12:47] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410969032496254986 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+https://discord.com/channels/1395026868448661524/1395026871594254369
+[29/08/2025 12:47] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1410969069003345942 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Jpp jsuis en course....
+[29/08/2025 12:47] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1410969118378823740 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ah ok
+[30/08/2025 11:58] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411319232871792735 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+minigamefr.feathermc.gg
+[30/08/2025 11:58] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411319242330079272 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[30/08/2025 11:58] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411319255693131837 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+en 1.21.4
+[30/08/2025 11:58] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411319263633084449 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Azé
+[30/08/2025 12:04] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411320564400001075 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[30/08/2025 12:04] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411320572926754987 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+tu en es ou ?
+[30/08/2025 12:04] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411320784022147105 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Ça lance le jeu
+[30/08/2025 12:04] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411320797867544702 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Mais c long de fou
+[30/08/2025 12:06] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411321292950470706 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[30/08/2025 12:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411321318133207051 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+j'en profite pour restart le serv
+[30/08/2025 12:07] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411321415805829191 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Aze
+[30/08/2025 12:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411321506247479418 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+c casi bon
+[30/08/2025 12:09] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411321854223712387 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@1386065734815186984>
+[30/08/2025 12:09] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411321857944064011 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+good
+[30/08/2025 12:53] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411333061752131594 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Mon jeu a crash je relance
+[30/08/2025 12:54] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411333272335814707 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ok
+[31/08/2025 10:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663214730809374 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+tu peux venir sur
+[31/08/2025 10:45] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663297769504768 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+minigamefr.feathermc.gg
+[31/08/2025 10:46] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663308448075817 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+en 1.21.4
+[31/08/2025 10:46] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411663332720771114 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+non
+[31/08/2025 10:46] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663377989767314 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ah pk ?
+[31/08/2025 10:46] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663385166090290 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+c le kitpvp
+[31/08/2025 10:46] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411663460617551912 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+pas envie
+[31/08/2025 10:46] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411663485829517424 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+mais c pour test stp
+[31/08/2025 10:46] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411663490812350465 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+je suis tres stressé
+[31/08/2025 11:11] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411669770738335844 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+faudrait créer une liste de personne à ne pas attaquer
+[31/08/2025 11:12] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411669861309878473 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+y a un mec sur craftok il m a tué et s est escusé de son comportement sans que je lui dise quelque chose
+[31/08/2025 11:13] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1411670251648712796 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+J'avouue
+[31/08/2025 11:13] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411670320242495590 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+génial cette personne [Fichiers: files/Le_mec_trop_sympa.PNG]
+[31/08/2025 11:14] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411670384717070409 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+kaissh27 c est une creme ce gars
+[31/08/2025 11:14] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1411670453583347723 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+on était en pvp il me tue et il s escuse
+[31/08/2025 14:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411714059606294680 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+@here
+[31/08/2025 14:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411714061804241067 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+https://craftok.fr/reglement-kitpvp
+[Embed]
+Titre: Règlement du KitPvP
+Description: Toutes les règles à respecter en KitPvP
+[31/08/2025 14:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411714075674808422 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+vous avez vu
+[31/08/2025 14:07] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1411714081357959269 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+c bon
+[01/09/2025 15:20] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1412094702488129721 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+sympa le ban pour rien
+[01/09/2025 15:20] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1412094745324421120 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+juste à cause d un casse couille
+[01/09/2025 15:25] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1412096028743569620 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ [Fichiers: files/image.png]
+[01/09/2025 15:26] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1412096185317068801 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+mdrrrr
+[01/09/2025 15:26] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1412096304720379995 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+si vous voyez Eldiablolevrai focussez le
+[01/09/2025 15:26] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1412096319518019717 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+c est lui qui m a fait ban
+[04/09/2025 17:20] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413212190898520175 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+<@&1395026868734001258>
+[04/09/2025 17:20] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413212223240667356 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+encore un relou qui leak jj'en ai marre
+[04/09/2025 17:57] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413221444397301982 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ [Fichiers: files/image.png]
+[04/09/2025 18:03] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1413222907282460784 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Wsh
+[04/09/2025 18:03] [C] ᕙ(⇀‸↼‶)Eternux_big_best (eternux_#0 | UID: 1386065734815186984) | MsgID: 1413222925523353630 | Roles: Joueur Clean, Verifié, Focus Time Commandant
+Rawee
+[05/09/2025 16:16] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413558430521626715 | Roles: Joueur Clean, Verifié, Focus Time Officier
+Bonjour
+[05/09/2025 17:00] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413569458500534284 | Roles: Joueur Clean, Verifié, Focus Time Officier
+Vous allez bien ?
+[05/09/2025 17:01] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413569693058465892 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+oui et toi
+[05/09/2025 17:06] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413571019255316703 | Roles: Joueur Clean, Verifié, Focus Time Officier
+Ça va super
+[05/09/2025 17:09] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413571807994318849 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+ [Fichiers: files/image.png]
+[05/09/2025 17:21] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413574727250739210 | Roles: Joueur Clean, Verifié, Focus Time Officier
+C'est pk que tu met ça ?
+[05/09/2025 17:24] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413575421248667690 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+je montre juste
+[05/09/2025 17:43] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1413580328173441176 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+<@948656250458091520> check tes mp
+[05/09/2025 18:21] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413589797074894999 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+Ok
+[05/09/2025 18:21] [F] AngmarRoiSorcier (angmarroisorcie#0 | UID: 948656250458091520) | MsgID: 1413589886031626272 | Roles: Non vérifié, Verifié, Équipe Focus Time, Focus Time Général
+De toi ?
+[05/09/2025 18:37] [C] FrigueLeNormand (fan2barbare_10#0 | UID: 1341355715146551337) | MsgID: 1413593997913620530 | Roles: Non vérifié, Joueur Clean, Équipe Focus Time, Focus Time Commandant
+Non c est Toto qui m a demandé
+[05/09/2025 19:38] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413609130958000190 | Roles: Joueur Clean, Verifié, Focus Time Officier
+Il m'a aussi demandé il m'a dit que c'était urgent
+[05/09/2025 19:38] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413609166232096929 | Roles: Joueur Clean, Verifié, Focus Time Officier
+Apparemment il veut te proposer un accord
+[05/09/2025 20:01] [O] SyrieAk_47 (alt_f4_pour_un_skin#0 | UID: 1398359519712510066) | MsgID: 1413615161230757981 | Roles: Joueur Clean, Verifié, Focus Time Officier
+<@948656250458091520>

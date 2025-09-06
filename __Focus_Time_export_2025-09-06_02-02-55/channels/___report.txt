@@ -1,0 +1,48 @@
+[17/08/2025 19:06] Elsia (Elsia#0000 | UID: 1406708658179674272) | MsgID: 1406715817114079252 | Roles: Impossible de récupérer les rôles
+
+[Embed]
+Titre: Modules de triche Minecraft - Personnalisation & Visuelles
+Champ: Personnalisation (1/2) = - **CenteredPotionInventory** : Centre l’affichage des effets de potions pour un rendu plus lisible.
+- **CustomGuiBGColor** : Modifie la couleur d’arrière-plan des menus (GUI), utile pour personnaliser son interface.
+- **CustomClientColor** : Permet de choisir la couleur principale du client (texte, HUD, menus).
+- **CustomFireHeight** : Réduit ou augmente la hauteur de l’animation du feu quand on brûle, pour une meilleure visibilité.
+- **CustomHurtCam** : Supprime ou modifie la secousse de la caméra lors des dégâts, pratique pour garder sa précision en combat.
+- **NoArmorOverlay** : Retire la couche violette de durabilité faible des armures, pour un affichage plus propre.
+Champ: Personnalisation (2/2) = - **BlockAnimation** : Permet de changer l’animation de blocage (épée, bouclier), parfois pour recréer des styles anciens.
+- **CustomName** : Affiche un pseudo personnalisé localement, purement cosmétique.
+- **CustomCape** : Ajoute une cape personnalisée visible côté client (similaire à Optifine).
+- **CustomGlint** : Change la couleur et l’effet scintillant des enchantements.
+- **Notifications** : Affiche des messages à l’écran lors de l’activation ou désactivation d’un module.
+- **CustomSkin** : Applique un skin personnalisé côté client uniquement.
+- **NameTags** : Montre les pseudos à travers les murs, souvent enrichis de vie et stuff.
+- **Crosshair** : Personnalise le réticule (taille, couleur, dynamique).
+- **FullBright** : Vision maximale même sans torches.
+- **AntiBlind** : Supprime cécité, obscurité et blackscreen du dragon.
+- **Chams** : Met en évidence les entités derrière les blocs avec des couleurs.
+- **Blur** : Ajoute un effet de flou esthétique dans les menus.
+Footer: Embed 1/3 - Modules de personnalisation
+[Embed]
+Titre: Modules de triche Minecraft - Combat
+Champ: Combat (1/3) = - **BackTrack** : Exploite la latence pour frapper à l’ancienne position d’un joueur. Très puissant mais souvent détecté.
+- **Criticals** : Transforme chaque coup en critique en simulant un saut.
+- **Jesus** : Permet de marcher sur l’eau/lave en envoyant de faux paquets.
+- **AutoClicker** : Génère automatiquement des clics à vitesse régulière.
+Champ: Combat (2/3) = - **BowAimbot** : Ajuste la trajectoire des flèches automatiquement, tenant compte de la gravité.
+- **KeepSprint** : Maintient le sprint même en frappant, facilitant les combos.
+- **AutoBlock** : Bloque automatiquement avec l’épée pour réduire les dégâts.
+- **PerfectHit** : Synchronise les coups avec le bon tick serveur, pour toucher à chaque fois.
+- **AimAssist** : Oriente légèrement la visée vers l’ennemi, discret contrairement à AimBot.
+Champ: Combat (3/3) = - **AutoRod** : Utilise automatiquement une canne à pêche pour initier un combo.
+- **NoSlow** : Empêche le ralentissement en utilisant objets (bouffe, potions, bouclier).
+- **AntiBot** : Ignore les faux joueurs générés par l’anti-cheat.
+- **AimBot** : Vise et frappe automatiquement, facilement détectable.
+- **HitBox** : Agrandit la hitbox ennemie pour les toucher plus facilement.
+- **Sprint** : Force le sprint permanent.
+Footer: Embed 2/3 - Modules de combat
+[Embed]
+Titre: Modules de triche Minecraft - Autres
+Champ: Divers = - **StaffDetector** : Détecte les modérateurs/admins (vanish, permissions spéciales, TP suspects). Permet d’éviter de cheater en leur présence.
+- **Scoreboard** : Modifie ou supprime le scoreboard affiché sur le côté.
+- **ArrayList** : Affiche la liste des modules activés à l’écran, personnalisable en style et couleur.
+- **Shadow** : Ajoute une ombre portée au HUD et aux textes pour une meilleure lisibilité.
+Footer: Embed 3/3 - Modules divers

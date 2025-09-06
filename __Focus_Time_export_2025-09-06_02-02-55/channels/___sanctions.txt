@@ -1,0 +1,19 @@
+[11/08/2025 19:37] Sanctions (Sanctions#0000 | UID: 1404548784133771439) | MsgID: 1404549306639454303 | Roles: Impossible de récupérer les rôles
+
+[Embed]
+Titre: 📋 Niveaux et Durées de Focus – Focus Time
+Champ: 0. Focus pour utilisation de /spawn en combat = • Durée : 10 à 30 minutes
+• Description : Sanction pour l’utilisation de la commande **/spawn** en plein combat, ce qui déséquilibre le fair-play.
+Focus court pour rappeler que ce comportement est interdit.
+Champ: 1. Focus léger = • Durée : 15 minutes à 1 heure
+• Description : Pour provocations légères ou comportements suspects sans preuves de triche.
+Champ: 2. Focus standard = • Durée : 1 à 3 heures
+• Description : Pour fautes sérieuses : association avec tricheur, voler les kills, provocations répétées.
+Champ: 3. Focus sévère = • Durée : 3 à 12 heures
+• Description : Pour triche avérée, sabotage, cross-team illégal, toxicité importante.
+Champ: 4. Focus extrême = • Durée : 12 heures à plusieurs jours ou indéfini
+• Description : Réservé aux récidivistes, tricheurs graves, ou joueurs qui abusent de kits jugés trop puissants ou déloyaux en jouant en boucle sans jamais écouter les avertissements (exemple : un archer caché qui tire en continu malgré les demandes de stop).
+Ils deviennent la cible prioritaire de toute la Focus Time jusqu’à levée officielle.
+Champ: 5. Focus à vie (cas extrême) = • Durée : Indéfini (jusqu’à exclusion manuelle)
+• Description : Pour tricheurs multirécidivistes ou comportements très toxiques, sans possibilité d’allègement.
+Footer: Focus Time – Sanctions et justice PvP
